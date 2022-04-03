@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1649007308 source:c:\users\mvese\desktop\school\3rd year\sem 1\315\pracs\one\comp315project\src\client.cpp
+	"Client.h"
+
+1649007308 c:\users\mvese\desktop\school\3rd year\sem 1\315\pracs\one\comp315project\include\client.h
+
+1649007402 source:c:\users\mvese\desktop\school\3rd year\sem 1\315\pracs\one\comp315project\src\system.cpp
+	"System.h"
+
+1649007402 c:\users\mvese\desktop\school\3rd year\sem 1\315\pracs\one\comp315project\include\system.h
+
+1649007367 source:c:\users\mvese\desktop\school\3rd year\sem 1\315\pracs\one\comp315project\src\vehicle.cpp
+	"Vehicle.h"
+
+1649007367 c:\users\mvese\desktop\school\3rd year\sem 1\315\pracs\one\comp315project\include\vehicle.h
+
+1649017098 source:c:\users\mvese\desktop\school\3rd year\sem 1\315\pracs\one\comp315project\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+
